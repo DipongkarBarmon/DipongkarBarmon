@@ -262,7 +262,11 @@ CSE undergraduate at **Shahjalal University of Science and Technology (SUST)** (
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="./assets/snake.svg" alt="Contribution Snake" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DipongkarBarmon/dipongkarbarmon/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DipongkarBarmon/dipongkarbarmon/output/github-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/DipongkarBarmon/dipongkarbarmon/output/github-snake-dark.svg" width="100%" />
+  </picture>
 </div>
 
 <br/>
